@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="kaa-client-sdk-p1-c1-n1-l3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kaa-client-sdk-p1-c1-n1-l3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/kaa-client-sdk-p1-c1-n1-l3.jar!/" />
+    </SOURCES>
+  </library>
+</component>
